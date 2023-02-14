@@ -38,4 +38,8 @@ WantedBy=multi-user.target
 ```
 replace the User/Group with your user and change the WorkingDirectory and ExecStart to your location
 
+```
+sudo systemctl enable --now chatbot.service
+```
+
 Credits: https://nlpcloud.com/build-gpt-j-gpt-neox-discord-chatbot-with-nlpcloud.html
