@@ -1,4 +1,4 @@
-# nlpcloud GPT Discord Chatbot
+# NLPCloud GPT Discord Chatbot
 
 Get API Token from nlpcloud: https://nlpcloud.com/home/token
 
